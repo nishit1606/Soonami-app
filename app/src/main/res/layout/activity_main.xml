@@ -12,6 +12,7 @@
         android:layout_height="wrap_content"
         android:text="@string/header_event"
         android:textAllCaps="true"
+        android:textColor="@android:color/black"
         android:textAppearance="?android:textAppearanceSmall" />
 
     <TextView
